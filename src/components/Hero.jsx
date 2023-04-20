@@ -63,6 +63,7 @@ const Hero = () => {
           </span>
         </motion.p>
         <Button
+          color={`text-blue max-w-fit scale-90 hover:scale-100 hover:text-white hover:border-white transition md:hover:scale-110 ease-in-out hover:ease-in-out duration-500 `}
           childern="Contact me!"
           whereTo="mailto:muadpn434@gmail.com"
         />
