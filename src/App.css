@@ -1,0 +1,13 @@
+.blue__gradient {
+  background: linear-gradient(180deg, rgba(135, 183, 255, 0.7) 0%, rgba(105, 150, 216, 0.599) 100%);
+  filter: blur(6.5rem);
+}
+.underline-thickness{
+  text-decoration-thickness: 2px;
+}
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
