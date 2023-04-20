@@ -48,6 +48,10 @@ const Connect = () => {
                 <img src="./images/steam.png" className="max-w-[24px]" alt="" />
               <motion.a href="https://steamcommunity.com/id/gh0_st/" target="_blank">muadpn434</motion.a>
             </div>
+            <div className="flex py-2 gap-1">
+                <img src="./images/GitHub.svg" className="max-w-[24px]" alt="" />
+              <motion.a href="https://github.com/muadpn" target="_blank">muadpn</motion.a>
+            </div>
           </motion.div>
         </div>
       </div>
