@@ -35,7 +35,7 @@ const Hero = () => {
           </span>
         </motion.h1>
         <motion.p   variants={item} className="md:transition hover:scale-100 scale-90 md:hover:scale-110 md:ease-in-out">
-          Oh Sorry.! its{" "}
+          Oh Sorry! its{" "}
           <span className="text-red-600 hover:decoration-solid  underline decoration-wavy font-medium decoration-slice hover:text-blue inline-block">
             Mouad Pn
           </span>{" "}
@@ -53,7 +53,7 @@ const Hero = () => {
          variants={item}
           className="py-2 transition scale-90 hover:scale-100
         md:hover:scale-110 ease-in-out">
-          I have a great passi on for learning and creating, and it brings me a{" "}
+          I have a great passion for learning and creating, and it brings me a{" "}
           <span className="text-blue text-5xl font-bold">feel of ecstasy</span>
         </motion.p>
         <motion.p  variants={item} className="py-4 scale-90 hover:scale-100 transition md:hover:scale-110 ease-in-out">
