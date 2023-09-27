@@ -26,12 +26,12 @@ const Passion = () => {
           <span className="text-blue text-3xl font-semibold">
             {" "}
             self-taught web developer
-          </span>
-          with a knack for creating visually stunning and
+          </span>{" "}
+         with a knack for creating visually stunning and
           <span className="text-blue text-3xl font-semibold ">
             {" "}
             functional websites
-          </span>
+          </span>{" "}
           that leave a lasting
           <span className="text-blue text-3xl font-semibold"> impression</span>.
         </p>
