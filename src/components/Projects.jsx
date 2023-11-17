@@ -21,7 +21,7 @@ const Projects = () => {
   };
   return (
     <section className="py-6" id="PROJECTS">
-      <SectionTitle title="Projects" />
+      <SectionTitle title="Projects" /> 
       <motion.div
         variants={container}
         className="flex flex-wrap items-center justify-center md:grid md:items-start md:justify-start md:gap-12 grid-flow-col gap-4 overflow-y-hidden overflow-x-scroll  py-12">
@@ -61,7 +61,7 @@ const Projects = () => {
                   {EachProject.GitHub && (
                     <button className="border-blue border-2 py-1 px-4">
                       <a href={`${EachProject.GitLink}`} target="_blank">
-                        Cache
+                        GitHub
                       </a>
                     </button>
                   )}

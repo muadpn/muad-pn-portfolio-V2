@@ -21,6 +21,7 @@ const Work = () => {
             return (
               item.Company === CompanyName && (
                 <div
+                  key={item?.id}
                   className={`${
                     item.Company !== CompanyName && `hidden`
                   } px-2`}>

@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="absolute top-[50%] blue__gradient aspect-square w-[100%] -z-5 "/>
       </div>
       {/* navContents */}
-      <div className="space-x-6 hidden md:flex right-0">
+      <div className="space-x-6 hidden md:flex right-0 px-2">
         <a href="#HOME"><p><span className="text-blue">#</span>Home</p></a>
         <a href="#SKILLS"><p><span className="text-blue">#</span>Skills</p></a>
         <a href="#WORK"><p><span className="text-blue">#</span>Work</p></a>

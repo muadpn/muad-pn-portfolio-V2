@@ -14,10 +14,16 @@ import ReactLogo from "./ReactLogo.svg";
 import FramerMotionLogo from "./FramerMotionLogo.svg";
 import GitLogo from "./GitLogo.svg";
 import HooBankFull from "./HooBankFULL.png";
+import Nextjs from "./nextjs.svg";
+import TailwindCss from "./tailwindcss.svg";
+import MongoDb from "./mongodb.svg";
 import DigitalVehicle from "./DigitalVehicle_V2.png";
 export {
+  Nextjs,
   logo,
   ProfilePic,
+  TailwindCss,
+  MongoDb,
   HooBankFull,
   DigitalVehicle,
   gpt3FrontPage,
